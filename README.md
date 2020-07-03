@@ -1,9 +1,18 @@
 # helloworld
 
-I am the creator of www.chillcastle.com and www.chillcoders.com
+I run a bunch of websites these days.
 
-Both sites are aimed at helping my friends and chill people in general to expand their web presence by whatever resources we may have available.
+Two of which have been built with react, which is the source of my current coding interests.
 
-Chill Castle is more about creating a mini-internet world where as chill coders is about creative connections between coders, helping coders find jobs, and spreading news about the accomplishments of particularly chill coders :)
+www.zxygallery.com is built on react and features the split-pane react feature.
+
+www.nycsoundguy.com is built on react and relies heavily on react router.
+
+www.chillcastle.com and is more about creating a mini-internet world that is hand drawn and feature lots of fun secret worlds.
+
+www.internationalartmagazine.com is a art blog that features bootstrap css.
+
+www.drinksfoodlife.com is a wordpress site.
 
 Gracias por la visitación.
+Adam
